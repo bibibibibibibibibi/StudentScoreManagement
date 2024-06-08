@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLDiemSV_ModelStoreContainer" CdmEntityContainer="QLDiemSV_Entities">
+    <EntitySetMapping Name="Diems">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.Diem">
+        <MappingFragment StoreEntitySet="Diem">
+          <ScalarProperty Name="DiemCuoiKy" ColumnName="DiemCuoiKy" />
+          <ScalarProperty Name="DiemQuaTrinh" ColumnName="DiemQuaTrinh" />
+          <ScalarProperty Name="DiemTrungBinh" ColumnName="DiemTrungBinh" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+          <ScalarProperty Name="MaMH" ColumnName="MaMH" />
+          <ScalarProperty Name="HocKy" ColumnName="HocKy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HeDTs">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.HeDT">
+        <MappingFragment StoreEntitySet="HeDT">
+          <ScalarProperty Name="MaHeDT" ColumnName="MaHeDT" />
+          <ScalarProperty Name="TenHeDT" ColumnName="TenHeDT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Khoas">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.Khoa">
+        <MappingFragment StoreEntitySet="Khoa">
+          <ScalarProperty Name="MaKhoa" ColumnName="MaKhoa" />
+          <ScalarProperty Name="TenKhoa" ColumnName="TenKhoa" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KhoaHocs">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.KhoaHoc">
+        <MappingFragment StoreEntitySet="KhoaHoc">
+          <ScalarProperty Name="MaKhoaHoc" ColumnName="MaKhoaHoc" />
+          <ScalarProperty Name="TenKhoaHoc" ColumnName="TenKhoaHoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lops">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.Lop">
+        <MappingFragment StoreEntitySet="Lop">
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="MaKhoa" ColumnName="MaKhoa" />
+          <ScalarProperty Name="MaHeDT" ColumnName="MaHeDT" />
+          <ScalarProperty Name="MaKhoaHoc" ColumnName="MaKhoaHoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MonHocs">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.MonHoc">
+        <MappingFragment StoreEntitySet="MonHoc">
+          <ScalarProperty Name="SoTinChi" ColumnName="SoTinChi" />
+          <ScalarProperty Name="MaMH" ColumnName="MaMH" />
+          <ScalarProperty Name="TenMH" ColumnName="TenMH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SinhViens">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.SinhVien">
+        <MappingFragment StoreEntitySet="SinhVien">
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+          <ScalarProperty Name="TenSV" ColumnName="TenSV" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GiangViens">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.GiangVien">
+        <MappingFragment StoreEntitySet="GiangVien">
+          <ScalarProperty Name="MaKhoa" ColumnName="MaKhoa" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="TenGV" ColumnName="TenGV" />
+          <ScalarProperty Name="MaGV" ColumnName="MaGV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LopHocPhans">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.LopHocPhan">
+        <MappingFragment StoreEntitySet="LopHocPhan">
+          <ScalarProperty Name="SiSoSV" ColumnName="SiSoSV" />
+          <ScalarProperty Name="MaGV" ColumnName="MaGV" />
+          <ScalarProperty Name="NamHoc" ColumnName="NamHoc" />
+          <ScalarProperty Name="MaKhoaHoc" ColumnName="MaKhoaHoc" />
+          <ScalarProperty Name="MaMH" ColumnName="MaMH" />
+          <ScalarProperty Name="MaLHP" ColumnName="MaLHP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courses_Info">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.Courses_Info">
+        <MappingFragment StoreEntitySet="Courses_Info">
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="TenKhoaHoc" ColumnName="TenKhoaHoc" />
+          <ScalarProperty Name="MaKhoaHoc" ColumnName="MaKhoaHoc" />
+          <ScalarProperty Name="TenHeDT" ColumnName="TenHeDT" />
+          <ScalarProperty Name="MaHeDT" ColumnName="MaHeDT" />
+          <ScalarProperty Name="TenKhoa" ColumnName="TenKhoa" />
+          <ScalarProperty Name="MaKhoa" ColumnName="MaKhoa" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Scores">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.Score">
+        <MappingFragment StoreEntitySet="Scores">
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="DiemTrungBinh" ColumnName="DiemTrungBinh" />
+          <ScalarProperty Name="DiemCuoiKy" ColumnName="DiemCuoiKy" />
+          <ScalarProperty Name="DiemQuaTrinh" ColumnName="DiemQuaTrinh" />
+          <ScalarProperty Name="HocKy" ColumnName="HocKy" />
+          <ScalarProperty Name="TenMH" ColumnName="TenMH" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="TenSV" ColumnName="TenSV" />
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="FindStudent" FunctionName="QLDiemSV_Model.Store.FindStudent">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.FindStudent_Result">
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+          <ScalarProperty Name="TenSV" ColumnName="TenSV" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="FindStudentWithHighestScore" FunctionName="QLDiemSV_Model.Store.FindStudentWithHighestScore">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.FindStudentWithHighestScore_Result">
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+          <ScalarProperty Name="MaMH" ColumnName="MaMH" />
+          <ScalarProperty Name="HocKy" ColumnName="HocKy" />
+          <ScalarProperty Name="DiemQuaTrinh" ColumnName="DiemQuaTrinh" />
+          <ScalarProperty Name="DiemCuoiKy" ColumnName="DiemCuoiKy" />
+          <ScalarProperty Name="DiemTrungBinh" ColumnName="DiemTrungBinh" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="hienthisv_diem" FunctionName="QLDiemSV_Model.Store.hienthisv_diem">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.hienthisv_diem_Result">
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+          <ScalarProperty Name="TenSV" ColumnName="TenSV" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="MaMH" ColumnName="MaMH" />
+          <ScalarProperty Name="DiemQuaTrinh" ColumnName="DiemQuaTrinh" />
+          <ScalarProperty Name="DiemCuoiKy" ColumnName="DiemCuoiKy" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="nhapmoiSV" FunctionName="QLDiemSV_Model.Store.nhapmoiSV" />
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="QLDiemSV_Model.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="QLDiemSV_Model.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_delDIEM" FunctionName="QLDiemSV_Model.Store.sp_delDIEM" />
+    <FunctionImportMapping FunctionImportName="sp_delGiangVien" FunctionName="QLDiemSV_Model.Store.sp_delGiangVien" />
+    <FunctionImportMapping FunctionImportName="sp_delHEDT" FunctionName="QLDiemSV_Model.Store.sp_delHEDT" />
+    <FunctionImportMapping FunctionImportName="sp_delKHOA" FunctionName="QLDiemSV_Model.Store.sp_delKHOA" />
+    <FunctionImportMapping FunctionImportName="sp_delKHOAHOC" FunctionName="QLDiemSV_Model.Store.sp_delKHOAHOC" />
+    <FunctionImportMapping FunctionImportName="sp_delLOP" FunctionName="QLDiemSV_Model.Store.sp_delLOP" />
+    <FunctionImportMapping FunctionImportName="sp_delLopHocPhan" FunctionName="QLDiemSV_Model.Store.sp_delLopHocPhan" />
+    <FunctionImportMapping FunctionImportName="sp_delMONHOC" FunctionName="QLDiemSV_Model.Store.sp_delMONHOC" />
+    <FunctionImportMapping FunctionImportName="sp_delSINHVIEN" FunctionName="QLDiemSV_Model.Store.sp_delSINHVIEN" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="QLDiemSV_Model.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_HEDT" FunctionName="QLDiemSV_Model.Store.sp_HEDT" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="QLDiemSV_Model.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="QLDiemSV_Model.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_insDIEM" FunctionName="QLDiemSV_Model.Store.sp_insDIEM" />
+    <FunctionImportMapping FunctionImportName="sp_insGiangVien" FunctionName="QLDiemSV_Model.Store.sp_insGiangVien" />
+    <FunctionImportMapping FunctionImportName="sp_insKHOA" FunctionName="QLDiemSV_Model.Store.sp_insKHOA" />
+    <FunctionImportMapping FunctionImportName="sp_insKHOAHOC" FunctionName="QLDiemSV_Model.Store.sp_insKHOAHOC" />
+    <FunctionImportMapping FunctionImportName="sp_insLOP" FunctionName="QLDiemSV_Model.Store.sp_insLOP" />
+    <FunctionImportMapping FunctionImportName="sp_insLopHocPhan" FunctionName="QLDiemSV_Model.Store.sp_insLopHocPhan" />
+    <FunctionImportMapping FunctionImportName="sp_insMONHOC" FunctionName="QLDiemSV_Model.Store.sp_insMONHOC" />
+    <FunctionImportMapping FunctionImportName="sp_insSINHVIEN" FunctionName="QLDiemSV_Model.Store.sp_insSINHVIEN" />
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="QLDiemSV_Model.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_showDIEM" FunctionName="QLDiemSV_Model.Store.sp_showDIEM">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_showDIEM_Result">
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+          <ScalarProperty Name="MaMH" ColumnName="MaMH" />
+          <ScalarProperty Name="HocKy" ColumnName="HocKy" />
+          <ScalarProperty Name="DiemQuaTrinh" ColumnName="DiemQuaTrinh" />
+          <ScalarProperty Name="DiemCuoiKy" ColumnName="DiemCuoiKy" />
+          <ScalarProperty Name="DiemTrungBinh" ColumnName="DiemTrungBinh" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_showHEDT" FunctionName="QLDiemSV_Model.Store.sp_showHEDT">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_showHEDT_Result">
+          <ScalarProperty Name="MaHeDT" ColumnName="MaHeDT" />
+          <ScalarProperty Name="TenHeDT" ColumnName="TenHeDT" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_showKHOA" FunctionName="QLDiemSV_Model.Store.sp_showKHOA">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_showKHOA_Result">
+          <ScalarProperty Name="MaKhoa" ColumnName="MaKhoa" />
+          <ScalarProperty Name="TenKhoa" ColumnName="TenKhoa" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_showKHOAHOC" FunctionName="QLDiemSV_Model.Store.sp_showKHOAHOC">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_showKHOAHOC_Result">
+          <ScalarProperty Name="MaKhoaHoc" ColumnName="MaKhoaHoc" />
+          <ScalarProperty Name="TenKhoaHoc" ColumnName="TenKhoaHoc" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_showLOP" FunctionName="QLDiemSV_Model.Store.sp_showLOP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_showLOP_Result">
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+          <ScalarProperty Name="TenLop" ColumnName="TenLop" />
+          <ScalarProperty Name="MaKhoa" ColumnName="MaKhoa" />
+          <ScalarProperty Name="MaHeDT" ColumnName="MaHeDT" />
+          <ScalarProperty Name="MaKhoaHoc" ColumnName="MaKhoaHoc" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_showMONHOC" FunctionName="QLDiemSV_Model.Store.sp_showMONHOC">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_showMONHOC_Result">
+          <ScalarProperty Name="MaMH" ColumnName="MaMH" />
+          <ScalarProperty Name="TenMH" ColumnName="TenMH" />
+          <ScalarProperty Name="SoTinChi" ColumnName="SoTinChi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_showSINHVIEN" FunctionName="QLDiemSV_Model.Store.sp_showSINHVIEN">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLDiemSV_Model.sp_showSINHVIEN_Result">
+          <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+          <ScalarProperty Name="TenSV" ColumnName="TenSV" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="MaLop" ColumnName="MaLop" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_updateDIEM" FunctionName="QLDiemSV_Model.Store.sp_updateDIEM" />
+    <FunctionImportMapping FunctionImportName="sp_updateGiangVien" FunctionName="QLDiemSV_Model.Store.sp_updateGiangVien" />
+    <FunctionImportMapping FunctionImportName="sp_updateHEDT" FunctionName="QLDiemSV_Model.Store.sp_updateHEDT" />
+    <FunctionImportMapping FunctionImportName="sp_updateKHOA" FunctionName="QLDiemSV_Model.Store.sp_updateKHOA" />
+    <FunctionImportMapping FunctionImportName="sp_updateKHOAHOC" FunctionName="QLDiemSV_Model.Store.sp_updateKHOAHOC" />
+    <FunctionImportMapping FunctionImportName="sp_updateLOP" FunctionName="QLDiemSV_Model.Store.sp_updateLOP" />
+    <FunctionImportMapping FunctionImportName="sp_updateLopHocPhan" FunctionName="QLDiemSV_Model.Store.sp_updateLopHocPhan" />
+    <FunctionImportMapping FunctionImportName="sp_updateMONHOC" FunctionName="QLDiemSV_Model.Store.sp_updateMONHOC" />
+    <FunctionImportMapping FunctionImportName="sp_updateSINHVIEN" FunctionName="QLDiemSV_Model.Store.sp_updateSINHVIEN" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="QLDiemSV_Model.Store.sp_upgraddiagrams" />
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="QLDiemSV_Model.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

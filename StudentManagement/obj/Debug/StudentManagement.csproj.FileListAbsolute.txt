@@ -1,0 +1,429 @@
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\EntityFramework.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\EntityFramework.xml
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Main.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Info.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Home.Home.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Register.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Manage.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Info.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Manage.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_New.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Info.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Manage.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_New.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Info.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Manage.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_New.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Info.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Info.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Info.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Manage.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_New.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Manage.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_New.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Manage.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_New.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Login.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.ResolveComReference.cache
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\EnvDTE.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\stdole.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\EnvDTE.xml
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Report.resources
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe.config
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nhan Pham\source\repos\WindowsProgramming\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\EntityFramework.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\EnvDTE.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\stdole.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\EntityFramework.xml
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe.config
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.ResolveComReference.cache
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Login.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Main.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Info.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_New.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Info.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_New.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Info.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_New.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Info.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_New.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Home.Home.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Info.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_New.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Info.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_New.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Info.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Register.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Report.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\bin\Debug\EnvDTE.xml
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_Infor.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_Manage.resources
+C:\Users\Hi\Documents\FInalProjectWinform_Group3\Entity_Framework\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_New.resources
+D:\StudentManagement\StudentManagement\bin\Debug\x86\SqlServerSpatial160.dll
+D:\StudentManagement\StudentManagement\bin\Debug\x64\SqlServerSpatial160.dll
+D:\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\StudentManagement\StudentManagement\bin\Debug\EntityFramework.dll
+D:\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\StudentManagement\StudentManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\StudentManagement\StudentManagement\bin\Debug\EnvDTE.dll
+D:\StudentManagement\StudentManagement\bin\Debug\stdole.dll
+D:\StudentManagement\StudentManagement\bin\Debug\EntityFramework.xml
+D:\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\StudentManagement\StudentManagement\bin\Debug\EnvDTE.xml
+D:\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.SuggestedBindingRedirects.cache
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe.config
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.ResolveComReference.cache
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Login.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Main.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Academic_Course.AcaCourse_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Info.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Info.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Info.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Info.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Home.Home.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_Infor.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Info.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Info.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_New.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Info.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Manage.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Register.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Report.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\EntityFramework.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\EnvDTE.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\stdole.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\EntityFramework.xml
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\EnvDTE.xml
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe.config
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.ResolveComReference.cache
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Login.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Main.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Academic_Course.AcaCourse_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Info.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Class.Class_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Info.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Course.Course_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Info.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Education_System.EdSystem_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Info.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Faculty.Faculty_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Home.Home.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Lecturer.Lecturer_Infor.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Info.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.School_Year.SchoolYear_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Info.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Score.Score_New.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Info.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Manage.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.MenuForms.Student.Student_Register.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Report.resources
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Hi\Downloads\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.HocsinhForm.resources
+D:\StudentManagement\StudentManagement\obj\Debug\StudentManagement.GiangViennForm.resources

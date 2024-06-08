@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b78631edf17941e4a9cb664569949e5e" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="QLDiemSV_Model.Diem" Width="1.5" PointX="7.5" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.HeDT" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.Khoa" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.KhoaHoc" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.Lop" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.MonHoc" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.SinhVien" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+	
+        <AssociationConnector Association="QLDiemSV_Model.FK_Diem_MonHoc" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDiemSV_Model.FK_Diem_SinhVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDiemSV_Model.FK_Lop_HeDT" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDiemSV_Model.FK_Lop_Khoa" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDiemSV_Model.FK_Lop_KhoaHoc" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDiemSV_Model.FK_SinhVien_Lop" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.GiangVien" Width="1.5" PointX="3" PointY="8" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.LopHocPhan" Width="1.5" PointX="5.25" PointY="7.875" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.sysdiagram" Width="1.5" PointX="7.75" PointY="8.25" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.Courses_Info" Width="1.5" PointX="9.75" PointY="2.25" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.Score" Width="1.5" PointX="0.75" PointY="11.25" />
+        <AssociationConnector Association="QLDiemSV_Model.FK__LopHocPhan__MaGV__208CD6FA" />
+        <AssociationConnector Association="QLDiemSV_Model.FK_GiangVien_Khoa" />
+        <AssociationConnector Association="QLDiemSV_Model.FK__LopHocPha__MaKho__2180FB33" />
+        <AssociationConnector Association="QLDiemSV_Model.FK__LopHocPhan__MaMH__1F98B2C1" />
+        <EntityTypeShape EntityType="QLDiemSV_Model.User" Width="1.5" PointX="10.375" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
